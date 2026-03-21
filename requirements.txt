@@ -3,3 +3,5 @@ fastapi
 uvicorn
 azure-eventhub
 python-dotenv
+jinja2
+python-multipart
