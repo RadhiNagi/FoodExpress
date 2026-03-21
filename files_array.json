@@ -1,0 +1,20 @@
+[
+  {
+    "file": "map_restaurants"
+  },
+  {
+    "file": "map_cuisines"
+  },
+  {
+    "file": "map_payment_methods"
+  },
+  {
+    "file": "map_order_statuses"
+  },
+  {
+    "file": "map_delivery_zones"
+  },
+  {
+    "file": "map_cancellation_reasons"
+  }
+]

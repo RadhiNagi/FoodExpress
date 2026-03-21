@@ -1,0 +1,26 @@
+[
+  {
+    "cuisine_id": 1,
+    "cuisine_type": "Indian"
+  },
+  {
+    "cuisine_id": 2,
+    "cuisine_type": "Italian"
+  },
+  {
+    "cuisine_id": 3,
+    "cuisine_type": "Chinese"
+  },
+  {
+    "cuisine_id": 4,
+    "cuisine_type": "Mexican"
+  },
+  {
+    "cuisine_id": 5,
+    "cuisine_type": "American"
+  },
+  {
+    "cuisine_id": 6,
+    "cuisine_type": "Japanese"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "restaurant_id": 1,
+    "restaurant_name": "Taj Kitchen",
+    "cuisine_id": 1,
+    "avg_prep_time_min": 25
+  },
+  {
+    "restaurant_id": 2,
+    "restaurant_name": "Pizza Palace",
+    "cuisine_id": 2,
+    "avg_prep_time_min": 20
+  },
+  {
+    "restaurant_id": 3,
+    "restaurant_name": "Dragon Wok",
+    "cuisine_id": 3,
+    "avg_prep_time_min": 18
+  },
+  {
+    "restaurant_id": 4,
+    "restaurant_name": "Burrito Bandits",
+    "cuisine_id": 4,
+    "avg_prep_time_min": 15
+  },
+  {
+    "restaurant_id": 5,
+    "restaurant_name": "Classic Diner",
+    "cuisine_id": 5,
+    "avg_prep_time_min": 22
+  },
+  {
+    "restaurant_id": 6,
+    "restaurant_name": "Sushi Zen",
+    "cuisine_id": 6,
+    "avg_prep_time_min": 30
+  },
+  {
+    "restaurant_id": 7,
+    "restaurant_name": "Spice Route",
+    "cuisine_id": 1,
+    "avg_prep_time_min": 28
+  },
+  {
+    "restaurant_id": 8,
+    "restaurant_name": "Napoli Express",
+    "cuisine_id": 2,
+    "avg_prep_time_min": 17
+  },
+  {
+    "restaurant_id": 9,
+    "restaurant_name": "Golden Dragon",
+    "cuisine_id": 3,
+    "avg_prep_time_min": 20
+  },
+  {
+    "restaurant_id": 10,
+    "restaurant_name": "Taco Fiesta",
+    "cuisine_id": 4,
+    "avg_prep_time_min": 12
+  }
+]

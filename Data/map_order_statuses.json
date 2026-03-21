@@ -1,0 +1,17 @@
+[
+  {
+    "order_status_id": 1,
+    "order_status": "Delivered",
+    "is_completed": true
+  },
+  {
+    "order_status_id": 2,
+    "order_status": "Cancelled",
+    "is_completed": false
+  },
+  {
+    "order_status_id": 3,
+    "order_status": "Refunded",
+    "is_completed": false
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "payment_method_id": 1,
+    "payment_method": "Credit Card",
+    "is_digital": true
+  },
+  {
+    "payment_method_id": 2,
+    "payment_method": "Debit Card",
+    "is_digital": true
+  },
+  {
+    "payment_method_id": 3,
+    "payment_method": "Digital Wallet",
+    "is_digital": true
+  },
+  {
+    "payment_method_id": 4,
+    "payment_method": "Cash",
+    "is_digital": false
+  }
+]

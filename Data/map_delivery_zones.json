@@ -1,0 +1,72 @@
+[
+  {
+    "zone_id": 1,
+    "zone_name": "Manhattan-Midtown",
+    "city": "New York",
+    "state": "NY",
+    "region": "Northeast"
+  },
+  {
+    "zone_id": 2,
+    "zone_name": "Brooklyn-Downtown",
+    "city": "New York",
+    "state": "NY",
+    "region": "Northeast"
+  },
+  {
+    "zone_id": 3,
+    "zone_name": "LA-Hollywood",
+    "city": "Los Angeles",
+    "state": "CA",
+    "region": "West"
+  },
+  {
+    "zone_id": 4,
+    "zone_name": "Chicago-Loop",
+    "city": "Chicago",
+    "state": "IL",
+    "region": "Midwest"
+  },
+  {
+    "zone_id": 5,
+    "zone_name": "Houston-Galleria",
+    "city": "Houston",
+    "state": "TX",
+    "region": "South"
+  },
+  {
+    "zone_id": 6,
+    "zone_name": "Phoenix-Downtown",
+    "city": "Phoenix",
+    "state": "AZ",
+    "region": "Southwest"
+  },
+  {
+    "zone_id": 7,
+    "zone_name": "Queens-Astoria",
+    "city": "New York",
+    "state": "NY",
+    "region": "Northeast"
+  },
+  {
+    "zone_id": 8,
+    "zone_name": "SF-Mission",
+    "city": "San Francisco",
+    "state": "CA",
+    "region": "West"
+  },
+  {
+    "zone_id": 9,
+    "zone_name": "Dallas-Uptown",
+    "city": "Dallas",
+    "state": "TX",
+    "region": "South"
+  },
+  {
+    "zone_id": 10,
+    "zone_name": "Seattle-Capitol",
+    "city": "Seattle",
+    "state": "WA",
+    "region": "West"
+  }
+]
