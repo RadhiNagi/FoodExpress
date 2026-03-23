@@ -16,5 +16,8 @@
   },
   {
     "file": "map_cancellation_reasons"
+  },
+  {
+    "file": "bulk_orders"
   }
 ]
