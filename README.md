@@ -3,9 +3,10 @@
 An end-to-end data engineering project that simulates a food delivery platform (like DoorDash/Swiggy), streaming real-time orders through Azure Event Hub into a Databricks Lakehouse with Medallion Architecture and Star Schema.
 
 ## Architecture
-```
+
 ![FoodExpress Architecture](architecture.svg)
 
+```
 FastAPI App ──→ Azure Event Hub ──→ Databricks (Bronze) ──→ Silver (OBT) ──→ Gold (Star Schema)
                                          ↑
 GitHub (Bulk JSON) ──→ Azure Data Factory ┘
