@@ -4,6 +4,8 @@ An end-to-end data engineering project that simulates a food delivery platform (
 
 ## Architecture
 ```
+![FoodExpress Architecture](architecture.svg)
+
 FastAPI App ──→ Azure Event Hub ──→ Databricks (Bronze) ──→ Silver (OBT) ──→ Gold (Star Schema)
                                          ↑
 GitHub (Bulk JSON) ──→ Azure Data Factory ┘
