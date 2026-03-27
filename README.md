@@ -125,7 +125,12 @@ docker-compose run --rm app python save_data.py
 1. Create Event Hub namespace + topic (ordertopic)
 2. Create ADLS Gen2 with bronze/silver/gold containers
 3. Create ADF with metadata-driven pipeline (reads files_array.json)
-4. Create Databricks workspace, mount ADLS, run notebooks in order:
+4. Create Databricks workspace, configure cluster Spark config:
+```
+   spark.connection_string YOUR_EVENT_HUB_CONNECTION_STRING
+   spark.hadoop.fs.azure.account.key.YOUR_STORAGE.dfs.core.windows.net YOUR_STORAGE_KEY
+```
+   Then run notebooks in order:
    - ingest.py (Bronze)
    - silver.py + silver_obt.sql (Silver)
    - model.py (Gold)
